@@ -1,0 +1,64 @@
+<!--index.wxml-->
+<swiper circular autoplay indicator-dots interval="3000" indicator-color="#21e90a" easing-function="easeInOutCubic">
+  <swiper-item>
+    <image src="https://ts1.cn.mm.bing.net/th/id/R-C.62a4420f03d0594f14c4cedb4ca92f55?rik=eoZdvlU%2bTEZCnQ&riu=http%3a%2f%2fimg95.699pic.com%2fphoto%2f50100%2f1450.jpg_wh860.jpg&ehk=UL6jUo5ODeseZEucJ0Z9yz%2fTk7HuvshjF94HW0i%2fEvM%3d&risl=&pid=ImgRaw&r=0" mode="heightFix" />
+  </swiper-item>
+  <swiper-item>
+    <image src="https://tse2-mm.cn.bing.net/th/id/OIP-C.J6F-PbYsWm3K_RhrAXjV4wHaE7?rs=1&pid=ImgDetMain" mode="heightFix" />
+  </swiper-item>
+  <swiper-item>
+    <image src="https://tse3-mm.cn.bing.net/th/id/OIP-C.HXO10c4N4BeDpjuo71SjKQHaE8?rs=1&pid=ImgDetMain" mode="heightFix" />
+  </swiper-item>
+</swiper>
+<view class="i1">
+  <text class="iconfont icon-tishi i2"></text>
+  <text>111111111</text>
+</view>
+
+
+<view class="i3">
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+  <view class="i6">
+    <image src="/images/3.png" mode="" class="i4" />
+    <text class="i5">工具</text>
+  </view>
+</view>
+<view class="i7">
+  <image src="/images/7.png" mode="aspectFit" style="width: 200rpx; height: 100rpx;" />
+  <text>通知公告</text>
+</view>
+<view class="i8">
+  <view>
+    <image src="/images/火车.jpeg" mode="" />
+  </view>
+  <view>
+    <image src="/images/飞机.jpeg" mode="" />
+  </view>
+</view>
