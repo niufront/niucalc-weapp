@@ -1,64 +1,75 @@
 <!--index.wxml-->
-<swiper circular autoplay indicator-dots interval="3000" indicator-color="#21e90a" easing-function="easeInOutCubic">
+<swiper circular autoplay indicator-dots interval="3000" indicator-color="#21e90a" easing-function="easeInOutCubic" hei>
   <swiper-item>
-    <image src="https://ts1.cn.mm.bing.net/th/id/R-C.62a4420f03d0594f14c4cedb4ca92f55?rik=eoZdvlU%2bTEZCnQ&riu=http%3a%2f%2fimg95.699pic.com%2fphoto%2f50100%2f1450.jpg_wh860.jpg&ehk=UL6jUo5ODeseZEucJ0Z9yz%2fTk7HuvshjF94HW0i%2fEvM%3d&risl=&pid=ImgRaw&r=0" mode="heightFix" />
+    <navigator url="/pages/t/t">
+      <text>i-ml-5</text>
+      <image src="/images/9.jpg" mode="heightFix" />
+    </navigator>
   </swiper-item>
   <swiper-item>
-    <image src="https://tse2-mm.cn.bing.net/th/id/OIP-C.J6F-PbYsWm3K_RhrAXjV4wHaE7?rs=1&pid=ImgDetMain" mode="heightFix" />
+    <navigator url="/pages/r/r">
+      <text>i-ml-11</text>
+      <image src="/images/9.jpg" mode="heightFix" />
+    </navigator>
   </swiper-item>
   <swiper-item>
-    <image src="https://tse3-mm.cn.bing.net/th/id/OIP-C.HXO10c4N4BeDpjuo71SjKQHaE8?rs=1&pid=ImgDetMain" mode="heightFix" />
+    <navigator url="/pages/e/e">
+      <text>i-ml-17</text>
+      <image src="/images/9.jpg" mode="heightFix" />
+    </navigator>
+  </swiper-item>
+  <swiper-item>
+    <navigator url="/pages/w/w">
+      <text>i-ml-23</text>
+      <image src="/images/9.jpg" mode="heightFix" />
+    </navigator>
   </swiper-item>
 </swiper>
 <view class="i1">
   <text class="iconfont icon-tishi i2"></text>
-  <text>111111111</text>
+  <text>i-ml-30</text>
 </view>
-
-
 <view class="i3">
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
-  <view class="i6">
-    <image src="/images/3.png" mode="" class="i4" />
-    <text class="i5">工具</text>
-  </view>
+  <navigator url="/pages/t/t">
+    <view class="i6">
+      <image src="/images/3.png" mode="aspectFit" class="i4" />
+      <text class="i5">i-ml-36</text>
+    </view>
+  </navigator>
+  <navigator url="/pages/r/r">
+    <view class="i6">
+      <image src="/images/3.png" mode="aspectFit" class="i4" />
+      <text class="i5">i-ml-42</text>
+    </view>
+  </navigator>
+  <navigator url="/pages/w/w">
+    <view class="i6">
+      <image src="/images/3.png" mode="aspectFit" class="i4" />
+      <text class="i5">i-ml-48</text>
+    </view>
+  </navigator>
+  <navigator url="/pages/t/t">
+    <view class="i6">
+      <image src="/images/3.png" mode="aspectFit" class="i4" />
+      <text class="i5">i-ml-54</text>
+    </view>
+  </navigator>
 </view>
 <view class="i7">
-  <image src="/images/7.png" mode="aspectFit" style="width: 200rpx; height: 100rpx;" />
-  <text>通知公告</text>
+  <navigator url="/pages/d/d">
+    <image src="/images/7.png" mode="aspectFit" style="width: 200rpx; height: 100rpx;" />
+    <text>i-ml-61</text>
+  </navigator>
 </view>
 <view class="i8">
-  <view>
-    <image src="/images/火车.jpeg" mode="" />
-  </view>
-  <view>
-    <image src="/images/飞机.jpeg" mode="" />
-  </view>
+  <navigator url="/pages/a/a">
+    <view>
+      <image src="/images/8.jpg" />
+    </view>
+  </navigator>
+  <navigator url="/pages/s/s">
+    <view>
+      <image src="/images/8.jpg" />
+    </view>
+  </navigator>
 </view>

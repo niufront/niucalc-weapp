@@ -1,5 +1,10 @@
-<button type="warn" plain size="mini" bind:tap="ml1">控制台打印</button>
 <view class="m1" bindtap="ml2">
   <button type="primary" plain catch:tap="ml3">按钮</button>
 </view>
-<view bind:tap="ml4" data-id="1001" data-name="1">点击</view>
+
+<navigator url="/pages/login/login">
+  <button type="primary" plain>登录/注册</button>
+</navigator>
+
+
+  <button type="warn" plain size="mini" bind:tap="ml1">控制台打印</button>

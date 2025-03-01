@@ -1,0 +1,18 @@
+.t1 {
+  width: 600rpx;
+  height: 200rpx;
+  border: 10rpx;
+  background-color: plum;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.t2 {
+  font-size: 80rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,8 +1,16 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/login/login",
     "pages/my/my",
-    "static/font"
+    "pages/t/t",
+    "pages/r/r",
+    "pages/e/e",
+    "pages/w/w",
+    "pages/a/a",
+    "pages/s/s",
+    "pages/d/d",
+    "pages/f/f"
   ],
   "window": {
     "navigationBarTitleText": "首页",
@@ -16,14 +24,14 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "images/1.jpg",
-        "selectedIconPath": "images/1.jpg"
+        "iconPath": "images/1.png",
+        "selectedIconPath": "images/1.png"
       },
       {
         "pagePath": "pages/my/my",
         "text": "我的",
-        "iconPath": "images/2.jpg",
-        "selectedIconPath": "images/2.jpg"
+        "iconPath": "images/2.png",
+        "selectedIconPath": "images/2.png"
       }
     ]
   }

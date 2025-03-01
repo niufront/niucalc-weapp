@@ -15,11 +15,10 @@
 }
 
 .i3 {
-  background-color: antiquewhite;
   display: flex;
   justify-content: space-between;
-  padding: 16rpx;
-  border-radius: 10;
+  padding: 20rpx;
+  border-radius: 20;
   flex-wrap: wrap;
 }
 
@@ -47,7 +46,7 @@
   background-color: rgba(255, 192, 203, 0.699);
 }
 
-.i7 {
+.i7>navigator {
   display: flex;
   justify-content: flex-start;
   margin-top: 20rpx;
@@ -66,7 +65,7 @@
   height: 200rpx;
 }
 
-.i8>view>image {
+.i8>navigator>view>image {
   height: 260rpx;
   width: 370rpx;
   padding: 5rpx;

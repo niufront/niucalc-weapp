@@ -10,5 +10,8 @@ Page({
   },
   ml4(event) {
     console.log(event)
+    console.log(event.target.dataset)
+    console.log(event.target.dataset.name)
+    console.log(event.mark.name)
   },
 })

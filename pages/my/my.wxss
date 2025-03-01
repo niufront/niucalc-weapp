@@ -1,4 +1,4 @@
-.m1{
+.m1 {
   height: 400rpx;
   width: 750rpx;
   background-color: pink;
