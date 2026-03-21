@@ -1,2 +1,1 @@
-<!--pages/d/d.wxml-->
-<text>pages/d/d.wxml</text>
+<view class="d1">d</view>

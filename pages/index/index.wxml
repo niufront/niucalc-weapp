@@ -42,13 +42,13 @@
       <text class="i5">i-ml-42</text>
     </view>
   </navigator>
-  <navigator url="/pages/w/w">
+  <navigator url="/pages/e/e">
     <view class="i6">
       <image src="/images/3.png" mode="aspectFit" class="i4" />
       <text class="i5">i-ml-48</text>
     </view>
   </navigator>
-  <navigator url="/pages/t/t">
+  <navigator url="/pages/w/w">
     <view class="i6">
       <image src="/images/3.png" mode="aspectFit" class="i4" />
       <text class="i5">i-ml-54</text>

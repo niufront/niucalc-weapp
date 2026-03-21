@@ -1,1 +1,4 @@
-/* pages/s/s.wxss */
+.s1{
+  font-size: 200rpx;
+  color: pink;
+}
